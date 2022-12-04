@@ -3,9 +3,12 @@
 <!-- https://www.youtube.com/watch?v=Fl70FG0QKSU -->
 <div align="left">
       <a href="https://www.youtube.com/watch?v=Fl70FG0QKSU">
-         <img src="https://img.youtube.com/vi/Fl70FG0QKSU/0.jpg" style="width:50%;">
+         <img src="https://img.youtube.com/vi/Fl70FG0QKSU/0.jpg" style="width:60%;">
       </a>
 </div>
+
+<img src="/results/iarc_mast.gif" width="30%" height="30%"/>  <img src="/results/iarc_mast_real.gif" width="30%" height="30%"/><br>
+<img src="/results/replacement_ros.gif" width="60%"/>
 
 It is broadly divided on the basis of the different subsystems used in the code. 
 
