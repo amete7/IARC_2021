@@ -1,5 +1,6 @@
 # IARC 2021
 
+Click on the below image to view the simulation video
 <!-- https://www.youtube.com/watch?v=Fl70FG0QKSU -->
 <div align="left">
       <a href="https://www.youtube.com/watch?v=Fl70FG0QKSU">
