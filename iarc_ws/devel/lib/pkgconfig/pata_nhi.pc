@@ -1,1 +1,0 @@
-/home/student/students/harshil/iarc_ws/devel/.private/pata_nhi/lib/pkgconfig/pata_nhi.pc
