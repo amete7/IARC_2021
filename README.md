@@ -11,9 +11,9 @@ The Mothership takes off along with the daughtership in tow, and starts taking l
 
 ## Structure
 
-The [iarc_ws]() containing all of the code along with other packages.
+The [iarc_ws](https://github.com/atharva7am/IARC_2021/tree/main/iarc_ws) containing all of the code along with other packages.
 		
-### [Controls]()
+### [controls](https://github.com/atharva7am/IARC_2021/tree/main/iarc_ws/src/controls)
 This folder consists of the Major Autopilot code used for Guidance, Navigation and Replacement of the module, along with a few utilities that assist in the same. It also has the urdf Description packages for the Joint Controllers used in our mechanism.
 
 * [autopilot.py]() - This is the master file that contains the mission logic and handles the GNC of the Mothership and the decision making logic for the whole mission.
