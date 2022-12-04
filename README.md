@@ -16,8 +16,8 @@ The [iarc_ws](https://github.com/atharva7am/IARC_2021/tree/main/iarc_ws) contain
 ### [controls](https://github.com/atharva7am/IARC_2021/tree/main/iarc_ws/src/controls)
 This folder consists of the Major Autopilot code used for Guidance, Navigation and Replacement of the module, along with a few utilities that assist in the same. It also has the urdf Description packages for the Joint Controllers used in our mechanism.
 
-* [autopilot.py]() - This is the master file that contains the mission logic and handles the GNC of the Mothership and the decision making logic for the whole mission.
-* [child_node.py]() - This is the file that controls the Daughtership, and the replacement maneuver. It consists of many classes, each built to suit specific purposes.
+* [autopilot.py](https://github.com/atharva7am/IARC_2021/blob/main/iarc_ws/src/controls/aerove_controls_tools/iarc_planning/autopilot/src/autopilot.py) - This is the master file that contains the mission logic and handles the GNC of the Mothership and the decision making logic for the whole mission.
+* [child_node.py](https://github.com/atharva7am/IARC_2021/blob/main/iarc_ws/src/controls/aerove_controls_tools/iarc_planning/autopilot/src/child_node.py) - This is the file that controls the Daughtership, and the replacement maneuver. It consists of many classes, each built to suit specific purposes.
 
 ### [iarc_ml](https://github.com/atharva7am/IARC_2021/tree/main/iarc_ws/src/iarc_ml)
 This folder consists of the Machine Learning code used to detect the mast and eventually the module from a respectable distance, to assist in the maneuvering and navigation of the drone towards the module. It also has all the dependencies along with a few utilities used by the code.
