@@ -1,6 +1,11 @@
 # IARC 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fl70FG0QKSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<!-- https://www.youtube.com/watch?v=Fl70FG0QKSU -->
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=Fl70FG0QKSU">
+         <img src="https://img.youtube.com/vi/Fl70FG0QKSU/0.jpg" style="width:50%;">
+      </a>
+</div>
 
 It is broadly divided on the basis of the different subsystems used in the code. 
 
